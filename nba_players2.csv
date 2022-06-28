@@ -1,0 +1,458 @@
+College,Name,Position,Team,Salary,Number,Age,Weight,Height
+Texas,Avery Bradley,PG,Boston Celtics,7730337.0,0.0,25.0,180.0,6-2
+Marquette,Jae Crowder,SF,Boston Celtics,6796117.0,99.0,25.0,235.0,6-6
+Boston University,John Holland,SG,Boston Celtics,,30.0,27.0,205.0,6-5
+Georgia State,R.J. Hunter,SG,Boston Celtics,1148640.0,28.0,22.0,185.0,6-5
+,Jonas Jerebko,PF,Boston Celtics,5000000.0,8.0,29.0,231.0,6-10
+,Amir Johnson,PF,Boston Celtics,12000000.0,90.0,29.0,240.0,6-9
+LSU,Jordan Mickey,PF,Boston Celtics,1170960.0,55.0,21.0,235.0,6-8
+Gonzaga,Kelly Olynyk,C,Boston Celtics,2165160.0,41.0,25.0,238.0,7-0
+Louisville,Terry Rozier,PG,Boston Celtics,1824360.0,12.0,22.0,190.0,6-2
+Oklahoma State,Marcus Smart,PG,Boston Celtics,3431040.0,36.0,22.0,220.0,6-4
+Ohio State,Jared Sullinger,C,Boston Celtics,2569260.0,7.0,24.0,260.0,6-9
+Washington,Isaiah Thomas,PG,Boston Celtics,6912869.0,4.0,27.0,185.0,5-9
+Ohio State,Evan Turner,SG,Boston Celtics,3425510.0,11.0,27.0,220.0,6-7
+Kentucky,James Young,SG,Boston Celtics,1749840.0,13.0,20.0,215.0,6-6
+North Carolina,Tyler Zeller,C,Boston Celtics,2616975.0,44.0,26.0,253.0,7-0
+,Bojan Bogdanovic,SG,Brooklyn Nets,3425510.0,44.0,27.0,216.0,6-8
+Oklahoma State,Markel Brown,SG,Brooklyn Nets,845059.0,22.0,24.0,190.0,6-3
+North Carolina,Wayne Ellington,SG,Brooklyn Nets,1500000.0,21.0,28.0,200.0,6-4
+Arizona,Rondae Hollis-Jefferson,SG,Brooklyn Nets,1335480.0,24.0,21.0,220.0,6-7
+Georgia Tech,Jarrett Jack,PG,Brooklyn Nets,6300000.0,2.0,32.0,200.0,6-3
+,Sergey Karasev,SG,Brooklyn Nets,1599840.0,10.0,22.0,208.0,6-7
+Cincinnati,Sean Kilpatrick,SG,Brooklyn Nets,134215.0,6.0,26.0,219.0,6-4
+Miami (FL),Shane Larkin,PG,Brooklyn Nets,1500000.0,0.0,23.0,175.0,5-11
+Stanford,Brook Lopez,C,Brooklyn Nets,19689000.0,11.0,28.0,275.0,7-0
+Syracuse,Chris McCullough,PF,Brooklyn Nets,1140240.0,1.0,21.0,200.0,6-11
+Saint Louis,Willie Reed,PF,Brooklyn Nets,947276.0,33.0,26.0,220.0,6-10
+Kansas,Thomas Robinson,PF,Brooklyn Nets,981348.0,41.0,25.0,237.0,6-10
+Georgetown,Henry Sims,C,Brooklyn Nets,947276.0,14.0,26.0,248.0,6-10
+Texas A&M,Donald Sloan,PG,Brooklyn Nets,947276.0,15.0,28.0,205.0,6-3
+Georgia Tech,Thaddeus Young,PF,Brooklyn Nets,11235955.0,30.0,27.0,221.0,6-8
+UCLA,Arron Afflalo,SG,New York Knicks,8000000.0,4.0,30.0,210.0,6-5
+UNLV,Lou Amundson,PF,New York Knicks,1635476.0,17.0,33.0,220.0,6-9
+,Thanasis Antetokounmpo,SF,New York Knicks,30888.0,43.0,23.0,205.0,6-7
+Syracuse,Carmelo Anthony,SF,New York Knicks,22875000.0,7.0,32.0,240.0,6-8
+,Jose Calderon,PG,New York Knicks,7402812.0,3.0,34.0,200.0,6-3
+Wichita State,Cleanthony Early,SF,New York Knicks,845059.0,11.0,25.0,210.0,6-8
+Saint Joseph's,Langston Galloway,SG,New York Knicks,845059.0,2.0,24.0,200.0,6-2
+Notre Dame,Jerian Grant,PG,New York Knicks,1572360.0,13.0,23.0,195.0,6-4
+Stanford,Robin Lopez,C,New York Knicks,12650000.0,8.0,28.0,255.0,7-0
+Norfolk State,Kyle O'Quinn,PF,New York Knicks,3750000.0,9.0,26.0,250.0,6-10
+,Kristaps Porzingis,PF,New York Knicks,4131720.0,6.0,20.0,240.0,7-3
+,Kevin Seraphin,C,New York Knicks,2814000.0,1.0,26.0,278.0,6-10
+Duke,Lance Thomas,SF,New York Knicks,1636842.0,42.0,28.0,235.0,6-8
+,Sasha Vujacic,SG,New York Knicks,947276.0,18.0,32.0,195.0,6-7
+Arizona,Derrick Williams,PF,New York Knicks,4000000.0,23.0,25.0,240.0,6-8
+Washington,Tony Wroten,SG,New York Knicks,167406.0,5.0,23.0,205.0,6-6
+Duke,Elton Brand,PF,Philadelphia 76ers,,42.0,37.0,254.0,6-9
+Murray State,Isaiah Canaan,PG,Philadelphia 76ers,947276.0,0.0,25.0,201.0,6-0
+Tennessee State,Robert Covington,SF,Philadelphia 76ers,1000000.0,33.0,25.0,215.0,6-9
+Kansas,Joel Embiid,C,Philadelphia 76ers,4626960.0,21.0,22.0,250.0,7-0
+Syracuse,Jerami Grant,SF,Philadelphia 76ers,845059.0,39.0,22.0,210.0,6-8
+Bowling Green,Richaun Holmes,PF,Philadelphia 76ers,1074169.0,22.0,22.0,245.0,6-10
+Purdue,Carl Landry,PF,Philadelphia 76ers,6500000.0,7.0,32.0,248.0,6-9
+North Carolina,Kendall Marshall,PG,Philadelphia 76ers,2144772.0,5.0,24.0,200.0,6-4
+Arizona,T.J. McConnell,PG,Philadelphia 76ers,525093.0,12.0,24.0,200.0,6-2
+Kentucky,Nerlens Noel,PF,Philadelphia 76ers,3457800.0,4.0,22.0,228.0,6-11
+Duke,Jahlil Okafor,C,Philadelphia 76ers,4582680.0,8.0,20.0,275.0,6-11
+Wake Forest,Ish Smith,PG,Philadelphia 76ers,947276.0,1.0,27.0,175.0,6-0
+Michigan,Nik Stauskas,SG,Philadelphia 76ers,2869440.0,11.0,22.0,205.0,6-6
+Georgetown,Hollis Thompson,SG,Philadelphia 76ers,947276.0,31.0,25.0,206.0,6-8
+UNLV,Christian Wood,PF,Philadelphia 76ers,525093.0,35.0,20.0,220.0,6-11
+,Bismack Biyombo,C,Toronto Raptors,2814000.0,8.0,23.0,245.0,6-9
+,Bruno Caboclo,SF,Toronto Raptors,1524000.0,20.0,20.0,205.0,6-9
+Missouri,DeMarre Carroll,SF,Toronto Raptors,13600000.0,5.0,29.0,212.0,6-8
+USC,DeMar DeRozan,SG,Toronto Raptors,10050000.0,10.0,26.0,220.0,6-7
+Wake Forest,James Johnson,PF,Toronto Raptors,2500000.0,3.0,29.0,250.0,6-9
+Texas,Cory Joseph,PG,Toronto Raptors,7000000.0,6.0,24.0,190.0,6-3
+Villanova,Kyle Lowry,PG,Toronto Raptors,12000000.0,7.0,30.0,205.0,6-0
+,Lucas Nogueira,C,Toronto Raptors,1842000.0,92.0,23.0,220.0,7-0
+Kentucky,Patrick Patterson,PF,Toronto Raptors,6268675.0,54.0,27.0,235.0,6-9
+UCLA,Norman Powell,SG,Toronto Raptors,650000.0,24.0,23.0,215.0,6-4
+Washington,Terrence Ross,SF,Toronto Raptors,3553917.0,31.0,25.0,195.0,6-7
+,Luis Scola,PF,Toronto Raptors,2900000.0,4.0,36.0,240.0,6-9
+Rider,Jason Thompson,PF,Toronto Raptors,245177.0,1.0,29.0,250.0,6-11
+,Jonas Valanciunas,C,Toronto Raptors,4660482.0,17.0,24.0,255.0,7-0
+Utah,Delon Wright,PG,Toronto Raptors,1509360.0,55.0,24.0,190.0,6-5
+,Leandro Barbosa,SG,Golden State Warriors,2500000.0,19.0,33.0,194.0,6-3
+North Carolina,Harrison Barnes,SF,Golden State Warriors,3873398.0,40.0,24.0,225.0,6-8
+Utah,Andrew Bogut,C,Golden State Warriors,13800000.0,12.0,31.0,260.0,7-0
+Belmont,Ian Clark,SG,Golden State Warriors,947276.0,21.0,25.0,175.0,6-3
+Davidson,Stephen Curry,PG,Golden State Warriors,11370786.0,30.0,28.0,190.0,6-3
+Vanderbilt,Festus Ezeli,C,Golden State Warriors,2008748.0,31.0,26.0,265.0,6-11
+Michigan State,Draymond Green,PF,Golden State Warriors,14260870.0,23.0,26.0,230.0,6-7
+Arizona,Andre Iguodala,SF,Golden State Warriors,11710456.0,9.0,32.0,215.0,6-6
+,Shaun Livingston,PG,Golden State Warriors,5543725.0,34.0,30.0,192.0,6-7
+UCLA,Kevon Looney,SF,Golden State Warriors,1131960.0,36.0,20.0,220.0,6-9
+North Carolina,James Michael McAdoo,SF,Golden State Warriors,845059.0,20.0,23.0,240.0,6-9
+Kansas,Brandon Rush,SF,Golden State Warriors,1270964.0,4.0,30.0,220.0,6-6
+Florida,Marreese Speights,C,Golden State Warriors,3815000.0,5.0,28.0,255.0,6-10
+Washington State,Klay Thompson,SG,Golden State Warriors,15501000.0,11.0,26.0,215.0,6-7
+,Anderson Varejao,PF,Golden State Warriors,289755.0,18.0,33.0,273.0,6-11
+Kansas,Cole Aldrich,C,Los Angeles Clippers,1100602.0,45.0,27.0,250.0,6-11
+Arizona State,Jeff Ayres,PF,Los Angeles Clippers,111444.0,19.0,29.0,250.0,6-9
+Michigan,Jamal Crawford,SG,Los Angeles Clippers,5675000.0,11.0,36.0,195.0,6-5
+Michigan State,Branden Dawson,SF,Los Angeles Clippers,525093.0,22.0,23.0,225.0,6-6
+Georgetown,Jeff Green,SF,Los Angeles Clippers,9650000.0,8.0,29.0,235.0,6-9
+Oklahoma,Blake Griffin,PF,Los Angeles Clippers,18907726.0,32.0,27.0,251.0,6-10
+Syracuse,Wesley Johnson,SF,Los Angeles Clippers,1100602.0,33.0,28.0,215.0,6-7
+Texas A&M,DeAndre Jordan,C,Los Angeles Clippers,19689000.0,6.0,27.0,265.0,6-11
+UCLA,Luc Richard Mbah a Moute,PF,Los Angeles Clippers,947276.0,12.0,29.0,230.0,6-8
+Wake Forest,Chris Paul,PG,Los Angeles Clippers,21468695.0,3.0,31.0,175.0,6-0
+Kansas,Paul Pierce,SF,Los Angeles Clippers,3376000.0,34.0,38.0,235.0,6-7
+,Pablo Prigioni,PG,Los Angeles Clippers,947726.0,9.0,39.0,185.0,6-3
+Duke,JJ Redick,SG,Los Angeles Clippers,7085000.0,4.0,31.0,190.0,6-4
+Duke,Austin Rivers,PG,Los Angeles Clippers,3110796.0,25.0,23.0,200.0,6-4
+Washington,C.J. Wilcox,SG,Los Angeles Clippers,1159680.0,30.0,25.0,195.0,6-5
+LSU,Brandon Bass,PF,Los Angeles Lakers,3000000.0,2.0,31.0,250.0,6-8
+Kansas,Tarik Black,C,Los Angeles Lakers,845059.0,28.0,24.0,250.0,6-9
+Stanford,Anthony Brown,SF,Los Angeles Lakers,700000.0,3.0,23.0,210.0,6-7
+,Kobe Bryant,SF,Los Angeles Lakers,25000000.0,24.0,37.0,212.0,6-6
+Missouri,Jordan Clarkson,PG,Los Angeles Lakers,845059.0,6.0,24.0,194.0,6-5
+Georgetown,Roy Hibbert,C,Los Angeles Lakers,15592217.0,17.0,29.0,270.0,7-2
+,Marcelo Huertas,PG,Los Angeles Lakers,525093.0,9.0,33.0,200.0,6-3
+Duke,Ryan Kelly,PF,Los Angeles Lakers,1724250.0,4.0,25.0,230.0,6-11
+Wyoming,Larry Nance Jr.,PF,Los Angeles Lakers,1155600.0,7.0,23.0,230.0,6-9
+Kentucky,Julius Randle,PF,Los Angeles Lakers,3132240.0,30.0,21.0,250.0,6-9
+Ohio State,D'Angelo Russell,PG,Los Angeles Lakers,5103120.0,1.0,20.0,195.0,6-5
+Gonzaga,Robert Sacre,C,Los Angeles Lakers,981348.0,50.0,27.0,270.0,7-0
+,Louis Williams,SG,Los Angeles Lakers,7000000.0,23.0,29.0,175.0,6-1
+St. John's,Metta World Peace,SF,Los Angeles Lakers,947276.0,37.0,36.0,260.0,6-7
+USC,Nick Young,SF,Los Angeles Lakers,5219169.0,0.0,31.0,210.0,6-7
+Kentucky,Eric Bledsoe,PG,Phoenix Suns,13500000.0,2.0,26.0,190.0,6-1
+Kentucky,Devin Booker,SG,Phoenix Suns,2127840.0,1.0,19.0,206.0,6-6
+Arizona,Chase Budinger,SF,Phoenix Suns,206192.0,10.0,28.0,209.0,6-7
+,Tyson Chandler,C,Phoenix Suns,13000000.0,4.0,33.0,240.0,7-1
+Kentucky,Archie Goodwin,SG,Phoenix Suns,1160160.0,20.0,21.0,200.0,6-5
+Vanderbilt,John Jenkins,SG,Phoenix Suns,981348.0,23.0,25.0,215.0,6-4
+Kentucky,Brandon Knight,PG,Phoenix Suns,13500000.0,3.0,24.0,189.0,6-3
+Maryland,Alex Len,C,Phoenix Suns,3807120.0,21.0,22.0,260.0,7-1
+Wisconsin,Jon Leuer,PF,Phoenix Suns,1035000.0,30.0,27.0,228.0,6-10
+Missouri,Phil Pressey,PG,Phoenix Suns,55722.0,25.0,25.0,175.0,5-11
+Utah Valley,Ronnie Price,PG,Phoenix Suns,947276.0,14.0,32.0,190.0,6-2
+,Mirza Teletovic,PF,Phoenix Suns,5500000.0,35.0,30.0,242.0,6-9
+Texas,P.J. Tucker,SF,Phoenix Suns,5500000.0,17.0,31.0,245.0,6-6
+North Carolina State,T.J. Warren,SF,Phoenix Suns,2041080.0,12.0,22.0,230.0,6-8
+UC Santa Barbara,Alan Williams,C,Phoenix Suns,83397.0,15.0,23.0,260.0,6-8
+Baylor,Quincy Acy,SF,Sacramento Kings,981348.0,13.0,25.0,240.0,6-7
+Oklahoma State,James Anderson,SG,Sacramento Kings,1015421.0,5.0,27.0,213.0,6-6
+,Marco Belinelli,SG,Sacramento Kings,6060606.0,3.0,30.0,210.0,6-5
+Connecticut,Caron Butler,SF,Sacramento Kings,1449187.0,31.0,36.0,228.0,6-7
+,Omri Casspi,SF,Sacramento Kings,2836186.0,18.0,27.0,225.0,6-9
+Kentucky,Willie Cauley-Stein,C,Sacramento Kings,3398280.0,0.0,22.0,240.0,7-0
+UCLA,Darren Collison,PG,Sacramento Kings,5013559.0,7.0,28.0,175.0,6-0
+Kentucky,DeMarcus Cousins,C,Sacramento Kings,15851950.0,15.0,25.0,270.0,6-11
+Duke,Seth Curry,SG,Sacramento Kings,947276.0,30.0,25.0,185.0,6-2
+Wisconsin,Duje Dukan,PF,Sacramento Kings,525093.0,26.0,24.0,220.0,6-9
+Connecticut,Rudy Gay,SF,Sacramento Kings,12403101.0,8.0,29.0,230.0,6-8
+Ohio State,Kosta Koufos,C,Sacramento Kings,7700000.0,41.0,27.0,265.0,7-0
+Kansas,Ben McLemore,SG,Sacramento Kings,3156600.0,23.0,23.0,195.0,6-5
+Oregon State,Eric Moreland,PF,Sacramento Kings,845059.0,25.0,24.0,238.0,6-10
+Kentucky,Rajon Rondo,PG,Sacramento Kings,9500000.0,9.0,30.0,186.0,6-1
+New Mexico,Cameron Bairstow,PF,Chicago Bulls,845059.0,41.0,25.0,250.0,6-9
+Oregon,Aaron Brooks,PG,Chicago Bulls,2250000.0,0.0,31.0,161.0,6-0
+Marquette,Jimmy Butler,SG,Chicago Bulls,16407500.0,21.0,26.0,220.0,6-7
+Duke,Mike Dunleavy,SG,Chicago Bulls,4500000.0,34.0,35.0,230.0,6-9
+,Cristiano Felicio,PF,Chicago Bulls,525093.0,6.0,23.0,275.0,6-10
+,Pau Gasol,C,Chicago Bulls,7448760.0,16.0,35.0,250.0,7-0
+USC,Taj Gibson,PF,Chicago Bulls,8500000.0,22.0,30.0,225.0,6-9
+Washington,Justin Holiday,SG,Chicago Bulls,947276.0,7.0,27.0,185.0,6-6
+Creighton,Doug McDermott,SF,Chicago Bulls,2380440.0,3.0,24.0,225.0,6-8
+,Nikola Mirotic,PF,Chicago Bulls,5543725.0,44.0,25.0,220.0,6-10
+Purdue,E'Twaun Moore,SG,Chicago Bulls,1015421.0,55.0,27.0,191.0,6-4
+Florida,Joakim Noah,C,Chicago Bulls,13400000.0,13.0,31.0,232.0,6-11
+Arkansas,Bobby Portis,PF,Chicago Bulls,1391160.0,5.0,21.0,230.0,6-11
+Memphis,Derrick Rose,PG,Chicago Bulls,20093064.0,1.0,27.0,190.0,6-3
+New Mexico,Tony Snell,SF,Chicago Bulls,1535880.0,20.0,24.0,200.0,6-7
+Saint Mary's,Matthew Dellavedova,PG,Cleveland Cavaliers,1147276.0,8.0,25.0,198.0,6-4
+Arizona,Channing Frye,PF,Cleveland Cavaliers,8193029.0,9.0,33.0,255.0,6-11
+Duke,Kyrie Irving,PG,Cleveland Cavaliers,16407501.0,2.0,24.0,193.0,6-3
+,LeBron James,SF,Cleveland Cavaliers,22970500.0,23.0,31.0,250.0,6-8
+Arizona,Richard Jefferson,SF,Cleveland Cavaliers,947276.0,24.0,35.0,233.0,6-7
+Duke,Dahntay Jones,SG,Cleveland Cavaliers,,30.0,35.0,225.0,6-6
+Miami (FL),James Jones,SG,Cleveland Cavaliers,947276.0,1.0,35.0,218.0,6-8
+Kansas,Sasha Kaun,C,Cleveland Cavaliers,1276000.0,14.0,31.0,260.0,6-11
+UCLA,Kevin Love,PF,Cleveland Cavaliers,19689000.0,0.0,27.0,251.0,6-10
+Tennessee,Jordan McRae,SG,Cleveland Cavaliers,111196.0,12.0,25.0,179.0,6-5
+,Timofey Mozgov,C,Cleveland Cavaliers,4950000.0,20.0,29.0,275.0,7-1
+Georgia Tech,Iman Shumpert,SG,Cleveland Cavaliers,8988765.0,4.0,25.0,220.0,6-5
+,J.R. Smith,SG,Cleveland Cavaliers,5000000.0,5.0,30.0,225.0,6-6
+Texas,Tristan Thompson,C,Cleveland Cavaliers,14260870.0,13.0,25.0,238.0,6-9
+Alabama,Mo Williams,PG,Cleveland Cavaliers,2100000.0,52.0,33.0,198.0,6-1
+UNLV,Joel Anthony,C,Detroit Pistons,2500000.0,50.0,33.0,245.0,6-9
+Washington State,Aron Baynes,C,Detroit Pistons,6500000.0,12.0,29.0,260.0,6-10
+Maryland,Steve Blake,PG,Detroit Pistons,2170465.0,22.0,36.0,172.0,6-3
+North Carolina State,Lorenzo Brown,PG,Detroit Pistons,111444.0,17.0,25.0,189.0,6-5
+North Carolina,Reggie Bullock,SF,Detroit Pistons,1252440.0,25.0,25.0,205.0,6-7
+Georgia,Kentavious Caldwell-Pope,SG,Detroit Pistons,2891760.0,5.0,23.0,205.0,6-5
+Colorado,Spencer Dinwiddie,PG,Detroit Pistons,845059.0,8.0,23.0,200.0,6-6
+Connecticut,Andre Drummond,C,Detroit Pistons,3272091.0,0.0,22.0,279.0,6-11
+Tennessee,Tobias Harris,SF,Detroit Pistons,16000000.0,34.0,23.0,235.0,6-9
+Villanova,Darrun Hilliard,SF,Detroit Pistons,600000.0,6.0,23.0,205.0,6-6
+Boston College,Reggie Jackson,PG,Detroit Pistons,13913044.0,1.0,26.0,208.0,6-3
+Arizona,Stanley Johnson,SF,Detroit Pistons,2841960.0,3.0,20.0,245.0,6-7
+Kentucky,Jodie Meeks,SG,Detroit Pistons,6270000.0,20.0,28.0,210.0,6-4
+Kansas,Marcus Morris,PF,Detroit Pistons,5000000.0,13.0,26.0,235.0,6-9
+Creighton,Anthony Tolliver,PF,Detroit Pistons,3000000.0,43.0,31.0,240.0,6-8
+Temple,Lavoy Allen,PF,Indiana Pacers,4050000.0,5.0,27.0,255.0,6-9
+Syracuse,Rakeem Christmas,PF,Indiana Pacers,1007026.0,25.0,24.0,250.0,6-9
+,Monta Ellis,SG,Indiana Pacers,10300000.0,11.0,30.0,185.0,6-3
+Fresno State,Paul George,SF,Indiana Pacers,17120106.0,13.0,26.0,220.0,6-9
+IUPUI,George Hill,PG,Indiana Pacers,8000000.0,3.0,30.0,188.0,6-3
+Arizona,Jordan Hill,C,Indiana Pacers,4000000.0,27.0,28.0,235.0,6-10
+Arizona,Solomon Hill,SF,Indiana Pacers,1358880.0,44.0,25.0,225.0,6-7
+North Carolina,Ty Lawson,PG,Indiana Pacers,211744.0,10.0,28.0,195.0,5-11
+,Ian Mahinmi,C,Indiana Pacers,4000000.0,28.0,29.0,250.0,6-11
+,C.J. Miles,SF,Indiana Pacers,4394225.0,0.0,29.0,231.0,6-6
+Michigan,Glenn Robinson III,SG,Indiana Pacers,1100000.0,40.0,22.0,222.0,6-7
+Eastern Washington,Rodney Stuckey,PG,Indiana Pacers,7000000.0,2.0,30.0,205.0,6-5
+Texas,Myles Turner,PF,Indiana Pacers,2357760.0,33.0,20.0,243.0,6-11
+Western Michigan,Shayne Whittington,PF,Indiana Pacers,845059.0,42.0,25.0,250.0,6-11
+Oregon,Joe Young,PG,Indiana Pacers,1007026.0,1.0,23.0,180.0,6-2
+,Giannis Antetokounmpo,SF,Milwaukee Bucks,1953960.0,34.0,21.0,222.0,6-11
+Arizona,Jerryd Bayless,PG,Milwaukee Bucks,3000000.0,19.0,27.0,200.0,6-3
+Syracuse,Michael Carter-Williams,PG,Milwaukee Bucks,2399040.0,5.0,24.0,190.0,6-6
+Oregon State,Jared Cunningham,SG,Milwaukee Bucks,947276.0,9.0,25.0,195.0,6-4
+Syracuse,Tyler Ennis,PG,Milwaukee Bucks,1662360.0,11.0,21.0,194.0,6-3
+North Carolina,John Henson,PF,Milwaukee Bucks,2943221.0,31.0,25.0,229.0,6-11
+,Damien Inglis,SF,Milwaukee Bucks,855000.0,17.0,21.0,246.0,6-8
+USC,O.J. Mayo,SG,Milwaukee Bucks,8000000.0,3.0,28.0,210.0,6-5
+Texas A&M,Khris Middleton,SG,Milwaukee Bucks,14700000.0,22.0,24.0,234.0,6-8
+Georgetown,Greg Monroe,C,Milwaukee Bucks,16407500.0,15.0,26.0,265.0,6-11
+Marquette,Steve Novak,SF,Milwaukee Bucks,295327.0,6.0,32.0,225.0,6-10
+LSU,Johnny O'Bryant III,PF,Milwaukee Bucks,845059.0,77.0,23.0,257.0,6-9
+Duke,Jabari Parker,PF,Milwaukee Bucks,5152440.0,12.0,21.0,250.0,6-8
+Duke,Miles Plumlee,C,Milwaukee Bucks,2109294.0,18.0,27.0,249.0,6-11
+Maryland,Greivis Vasquez,PG,Milwaukee Bucks,6600000.0,21.0,29.0,217.0,6-6
+UNLV,Rashad Vaughn,SG,Milwaukee Bucks,1733040.0,20.0,19.0,202.0,6-6
+Virginia,Justin Anderson,SG,Dallas Mavericks,1449000.0,1.0,22.0,228.0,6-6
+Northeastern,J.J. Barea,PG,Dallas Mavericks,4290000.0,5.0,31.0,185.0,6-0
+Western Kentucky,Jeremy Evans,SF,Dallas Mavericks,1100602.0,21.0,28.0,200.0,6-9
+North Carolina,Raymond Felton,PG,Dallas Mavericks,3950313.0,2.0,31.0,205.0,6-1
+Wisconsin,Devin Harris,PG,Dallas Mavericks,4053446.0,34.0,33.0,185.0,6-3
+Florida,David Lee,PF,Dallas Mavericks,2085671.0,42.0,33.0,245.0,6-9
+Marquette,Wesley Matthews,SG,Dallas Mavericks,16407500.0,23.0,29.0,220.0,6-5
+Nevada,JaVale McGee,C,Dallas Mavericks,1270964.0,11.0,28.0,270.0,7-0
+,Salah Mejri,C,Dallas Mavericks,525093.0,50.0,29.0,245.0,7-2
+,Dirk Nowitzki,PF,Dallas Mavericks,8333334.0,41.0,37.0,245.0,7-0
+,Zaza Pachulia,C,Dallas Mavericks,5200000.0,27.0,32.0,275.0,6-11
+Florida,Chandler Parsons,SF,Dallas Mavericks,15361500.0,25.0,27.0,230.0,6-10
+Stanford,Dwight Powell,PF,Dallas Mavericks,845059.0,7.0,24.0,240.0,6-11
+Connecticut,Charlie Villanueva,PF,Dallas Mavericks,947276.0,3.0,31.0,232.0,6-11
+Illinois,Deron Williams,PG,Dallas Mavericks,5378974.0,8.0,31.0,200.0,6-3
+UCLA,Trevor Ariza,SF,Houston Rockets,8193030.0,1.0,30.0,215.0,6-8
+Kansas State,Michael Beasley,SF,Houston Rockets,306527.0,8.0,27.0,235.0,6-10
+Arkansas,Patrick Beverley,PG,Houston Rockets,6486486.0,2.0,27.0,185.0,6-1
+Florida,Corey Brewer,SG,Houston Rockets,8229375.0,33.0,30.0,186.0,6-9
+,Clint Capela,PF,Houston Rockets,1242720.0,15.0,22.0,240.0,6-10
+Wisconsin,Sam Dekker,SF,Houston Rockets,1646400.0,7.0,22.0,230.0,6-9
+Charleston,Andrew Goudelock,PG,Houston Rockets,200600.0,0.0,27.0,200.0,6-3
+Arizona State,James Harden,SG,Houston Rockets,15756438.0,13.0,26.0,220.0,6-5
+Louisville,Montrezl Harrell,PF,Houston Rockets,1000000.0,35.0,22.0,240.0,6-8
+,Dwight Howard,C,Houston Rockets,22359364.0,12.0,30.0,265.0,6-11
+Kentucky,Terrence Jones,PF,Houston Rockets,2489530.0,6.0,24.0,252.0,6-9
+Clemson,K.J. McDaniels,SG,Houston Rockets,3189794.0,32.0,23.0,205.0,6-6
+,Donatas Motiejunas,PF,Houston Rockets,2288205.0,20.0,25.0,222.0,7-0
+,Josh Smith,C,Houston Rockets,947276.0,5.0,30.0,225.0,6-9
+Arizona,Jason Terry,SG,Houston Rockets,947276.0,31.0,38.0,185.0,6-2
+UCLA,Jordan Adams,SG,Memphis Grizzlies,1404600.0,3.0,21.0,209.0,6-5
+Oklahoma State,Tony Allen,SG,Memphis Grizzlies,5158539.0,9.0,34.0,213.0,6-4
+Blinn College,Chris Andersen,PF,Memphis Grizzlies,5000000.0,7.0,37.0,245.0,6-10
+UCLA,Matt Barnes,SF,Memphis Grizzlies,3542500.0,22.0,36.0,226.0,6-7
+North Carolina,Vince Carter,SG,Memphis Grizzlies,4088019.0,15.0,39.0,220.0,6-6
+Ohio State,Mike Conley,PG,Memphis Grizzlies,9588426.0,11.0,28.0,175.0,6-1
+Providence,Bryce Cotton,PG,Memphis Grizzlies,700902.0,8.0,23.0,165.0,6-1
+UCLA,Jordan Farmar,PG,Memphis Grizzlies,,4.0,29.0,180.0,6-2
+,Marc Gasol,C,Memphis Grizzlies,19688000.0,33.0,31.0,255.0,7-1
+Alabama,JaMychal Green,PF,Memphis Grizzlies,845059.0,0.0,25.0,227.0,6-9
+North Carolina,P.J. Hairston,SF,Memphis Grizzlies,1201440.0,19.0,23.0,230.0,6-6
+LSU,Jarell Martin,PF,Memphis Grizzlies,1230840.0,10.0,22.0,239.0,6-10
+Detroit,Ray McCallum,PG,Memphis Grizzlies,,5.0,24.0,190.0,6-3
+Rhode Island,Xavier Munford,PG,Memphis Grizzlies,,14.0,24.0,180.0,6-3
+Michigan State,Zach Randolph,PF,Memphis Grizzlies,9638555.0,50.0,34.0,260.0,6-9
+Cincinnati,Lance Stephenson,SF,Memphis Grizzlies,9000000.0,1.0,25.0,230.0,6-5
+USC,Alex Stepheson,PF,Memphis Grizzlies,,35.0,28.0,270.0,6-10
+North Carolina,Brandan Wright,PF,Memphis Grizzlies,5464000.0,34.0,28.0,210.0,6-10
+,Alexis Ajinca,C,New Orleans Pelicans,4389607.0,42.0,28.0,248.0,7-2
+California,Ryan Anderson,PF,New Orleans Pelicans,8500000.0,33.0,28.0,240.0,6-10
+,Omer Asik,C,New Orleans Pelicans,9213483.0,3.0,29.0,255.0,7-0
+Nevada,Luke Babbitt,SF,New Orleans Pelicans,1100602.0,8.0,26.0,225.0,6-9
+Cleveland State,Norris Cole,PG,New Orleans Pelicans,3036927.0,30.0,27.0,175.0,6-2
+Villanova,Dante Cunningham,PF,New Orleans Pelicans,2850000.0,44.0,29.0,230.0,6-8
+Kentucky,Anthony Davis,PF,New Orleans Pelicans,7070730.0,23.0,23.0,253.0,6-10
+Iowa State,Bryce Dejean-Jones,SG,New Orleans Pelicans,169883.0,31.0,23.0,203.0,6-6
+Florida State,Toney Douglas,PG,New Orleans Pelicans,1164858.0,16.0,30.0,195.0,6-2
+Long Beach State,James Ennis,SF,New Orleans Pelicans,845059.0,4.0,25.0,210.0,6-7
+Memphis,Tyreke Evans,SG,New Orleans Pelicans,10734586.0,1.0,26.0,220.0,6-6
+Penn State,Tim Frazier,PG,New Orleans Pelicans,845059.0,2.0,25.0,170.0,6-1
+Alabama,Alonzo Gee,SF,New Orleans Pelicans,1320000.0,15.0,29.0,225.0,6-6
+Indiana,Eric Gordon,SG,New Orleans Pelicans,15514031.0,10.0,27.0,215.0,6-4
+Texas,Jordan Hamilton,SG,New Orleans Pelicans,1015421.0,25.0,25.0,220.0,6-7
+UCLA,Jrue Holiday,PG,New Orleans Pelicans,10595507.0,11.0,25.0,205.0,6-4
+UC Santa Barbara,Orlando Johnson,SG,New Orleans Pelicans,55722.0,0.0,27.0,220.0,6-5
+,Kendrick Perkins,C,New Orleans Pelicans,947276.0,5.0,31.0,270.0,6-10
+Washington,Quincy Pondexter,SF,New Orleans Pelicans,3382023.0,20.0,28.0,220.0,6-7
+Texas,LaMarcus Aldridge,PF,San Antonio Spurs,19689000.0,12.0,30.0,240.0,6-11
+UCLA,Kyle Anderson,SF,San Antonio Spurs,1142880.0,1.0,22.0,230.0,6-9
+Florida,Matt Bonner,C,San Antonio Spurs,947276.0,15.0,36.0,235.0,6-10
+,Boris Diaw,C,San Antonio Spurs,7500000.0,33.0,34.0,250.0,6-8
+Wake Forest,Tim Duncan,C,San Antonio Spurs,5250000.0,21.0,40.0,250.0,6-11
+,Manu Ginobili,SG,San Antonio Spurs,2814000.0,20.0,38.0,205.0,6-6
+North Carolina,Danny Green,SG,San Antonio Spurs,10000000.0,14.0,28.0,215.0,6-6
+San Diego State,Kawhi Leonard,SF,San Antonio Spurs,16407500.0,2.0,24.0,230.0,6-7
+,Boban Marjanovic,C,San Antonio Spurs,1200000.0,40.0,27.0,290.0,7-3
+Western Carolina,Kevin Martin,SG,San Antonio Spurs,200600.0,23.0,33.0,199.0,6-7
+Utah,Andre Miller,PG,San Antonio Spurs,250750.0,24.0,40.0,200.0,6-3
+Saint Mary's,Patty Mills,PG,San Antonio Spurs,3578947.0,8.0,27.0,185.0,6-0
+,Tony Parker,PG,San Antonio Spurs,13437500.0,9.0,34.0,185.0,6-2
+Houston,Jonathon Simmons,SG,San Antonio Spurs,525093.0,17.0,26.0,195.0,6-6
+Xavier,David West,PF,San Antonio Spurs,1499187.0,30.0,35.0,250.0,6-9
+Old Dominion,Kent Bazemore,SF,Atlanta Hawks,2000000.0,24.0,26.0,201.0,6-5
+Michigan,Tim Hardaway Jr.,SG,Atlanta Hawks,1304520.0,10.0,24.0,205.0,6-6
+Kansas,Kirk Hinrich,SG,Atlanta Hawks,2854940.0,12.0,35.0,190.0,6-4
+Florida,Al Horford,C,Atlanta Hawks,12000000.0,15.0,30.0,245.0,6-10
+Minnesota,Kris Humphries,PF,Atlanta Hawks,1000000.0,43.0,31.0,235.0,6-9
+Creighton,Kyle Korver,SG,Atlanta Hawks,5746479.0,26.0,35.0,212.0,6-7
+Louisiana Tech,Paul Millsap,PF,Atlanta Hawks,18671659.0,4.0,31.0,246.0,6-8
+Bucknell,Mike Muscala,PF,Atlanta Hawks,947276.0,31.0,24.0,240.0,6-11
+Pittsburgh,Lamar Patterson,SG,Atlanta Hawks,525093.0,13.0,24.0,225.0,6-5
+,Dennis Schroder,PG,Atlanta Hawks,1763400.0,17.0,22.0,172.0,6-1
+Virginia,Mike Scott,PF,Atlanta Hawks,3333333.0,32.0,27.0,237.0,6-8
+,Thabo Sefolosha,SF,Atlanta Hawks,4000000.0,25.0,32.0,220.0,6-7
+,Tiago Splitter,C,Atlanta Hawks,9756250.0,11.0,31.0,245.0,6-11
+,Walter Tavares,C,Atlanta Hawks,1000000.0,22.0,24.0,260.0,7-3
+Wake Forest,Jeff Teague,PG,Atlanta Hawks,8000000.0,0.0,27.0,186.0,6-2
+,Nicolas Batum,SG,Charlotte Hornets,13125306.0,5.0,27.0,200.0,6-8
+Virginia Commonwealth,Troy Daniels,SG,Charlotte Hornets,947276.0,30.0,24.0,205.0,6-4
+California,Jorge Gutierrez,PG,Charlotte Hornets,189455.0,12.0,27.0,189.0,6-3
+North Carolina,Tyler Hansbrough,PF,Charlotte Hornets,947276.0,50.0,30.0,250.0,6-9
+Kentucky,Aaron Harrison,SG,Charlotte Hornets,525093.0,9.0,21.0,210.0,6-6
+Washington,Spencer Hawes,PF,Charlotte Hornets,6110034.0,0.0,28.0,245.0,7-1
+,Al Jefferson,C,Charlotte Hornets,13500000.0,25.0,31.0,289.0,6-10
+Wisconsin,Frank Kaminsky III,C,Charlotte Hornets,2612520.0,44.0,23.0,240.0,7-0
+Kentucky,Michael Kidd-Gilchrist,SF,Charlotte Hornets,6331404.0,14.0,22.0,232.0,6-7
+Connecticut,Jeremy Lamb,SG,Charlotte Hornets,3034356.0,3.0,24.0,185.0,6-5
+Western Kentucky,Courtney Lee,SG,Charlotte Hornets,5675000.0,1.0,30.0,200.0,6-5
+Harvard,Jeremy Lin,PG,Charlotte Hornets,2139000.0,7.0,27.0,200.0,6-3
+Connecticut,Kemba Walker,PG,Charlotte Hornets,12000000.0,15.0,26.0,184.0,6-1
+North Carolina,Marvin Williams,PF,Charlotte Hornets,7000000.0,2.0,29.0,237.0,6-9
+Indiana,Cody Zeller,C,Charlotte Hornets,4204200.0,40.0,23.0,240.0,7-0
+Georgia Tech,Chris Bosh,PF,Miami Heat,22192730.0,1.0,32.0,235.0,6-11
+Duke,Luol Deng,SF,Miami Heat,10151612.0,9.0,31.0,220.0,6-9
+,Goran Dragic,PG,Miami Heat,14783000.0,7.0,30.0,190.0,6-3
+,Gerald Green,SF,Miami Heat,947276.0,14.0,30.0,205.0,6-7
+Florida,Udonis Haslem,PF,Miami Heat,2854940.0,40.0,36.0,235.0,6-8
+Arkansas,Joe Johnson,SF,Miami Heat,261894.0,2.0,34.0,240.0,6-7
+Fresno State,Tyler Johnson,SG,Miami Heat,845059.0,8.0,24.0,186.0,6-4
+Duke,Josh McRoberts,PF,Miami Heat,5543725.0,4.0,29.0,240.0,6-10
+Tennessee,Josh Richardson,SG,Miami Heat,525093.0,0.0,22.0,200.0,6-6
+,Amar'e Stoudemire,PF,Miami Heat,947276.0,5.0,33.0,245.0,6-10
+Marquette,Dwyane Wade,SG,Miami Heat,20000000.0,3.0,34.0,220.0,6-4
+Virginia Commonwealth,Briante Weber,PG,Miami Heat,,12.0,23.0,165.0,6-2
+Marshall,Hassan Whiteside,C,Miami Heat,981348.0,21.0,26.0,265.0,7-0
+Duke,Justise Winslow,SF,Miami Heat,2481720.0,20.0,20.0,225.0,6-7
+,Dorell Wright,SF,Miami Heat,,11.0,30.0,205.0,6-9
+USC,Dewayne Dedmon,C,Orlando Magic,947276.0,3.0,26.0,245.0,7-0
+,Evan Fournier,SG,Orlando Magic,2288205.0,10.0,23.0,205.0,6-7
+Arizona,Aaron Gordon,PF,Orlando Magic,4171680.0,0.0,20.0,220.0,6-9
+,Mario Hezonja,SG,Orlando Magic,3741480.0,23.0,21.0,218.0,6-8
+,Ersan Ilyasova,PF,Orlando Magic,7900000.0,7.0,29.0,235.0,6-10
+,Brandon Jennings,PG,Orlando Magic,8344497.0,55.0,26.0,169.0,6-1
+Iowa,Devyn Marble,SF,Orlando Magic,845059.0,11.0,23.0,200.0,6-6
+Connecticut,Shabazz Napier,PG,Orlando Magic,1294440.0,13.0,24.0,175.0,6-1
+St. Bonaventure,Andrew Nicholson,PF,Orlando Magic,2380593.0,44.0,26.0,250.0,6-9
+Indiana,Victor Oladipo,SG,Orlando Magic,5192520.0,5.0,24.0,210.0,6-4
+Louisiana-Lafayette,Elfrid Payton,PG,Orlando Magic,2505720.0,4.0,22.0,185.0,6-4
+Colorado State,Jason Smith,PF,Orlando Magic,4300000.0,14.0,30.0,240.0,7-0
+USC,Nikola Vucevic,C,Orlando Magic,11250000.0,9.0,25.0,260.0,7-0
+Tennessee,C.J. Watson,PG,Orlando Magic,5000000.0,32.0,32.0,175.0,6-2
+Michigan State,Alan Anderson,SG,Washington Wizards,4000000.0,6.0,33.0,220.0,6-6
+Florida,Bradley Beal,SG,Washington Wizards,5694674.0,3.0,22.0,207.0,6-5
+Boston College,Jared Dudley,SF,Washington Wizards,4375000.0,1.0,30.0,225.0,6-7
+Virginia Tech,Jarell Eddie,SG,Washington Wizards,561716.0,8.0,24.0,218.0,6-7
+Kansas,Drew Gooden,PF,Washington Wizards,3300000.0,90.0,34.0,250.0,6-10
+,Marcin Gortat,C,Washington Wizards,11217391.0,13.0,32.0,240.0,6-11
+North Carolina State,JJ Hickson,C,Washington Wizards,273038.0,21.0,27.0,242.0,6-9
+,Nene Hilario,C,Washington Wizards,13000000.0,42.0,33.0,250.0,6-11
+Kansas,Markieff Morris,PF,Washington Wizards,8000000.0,5.0,26.0,245.0,6-10
+Kansas,Kelly Oubre Jr.,SF,Washington Wizards,1920240.0,12.0,20.0,205.0,6-7
+Georgetown,Otto Porter Jr.,SF,Washington Wizards,4662960.0,22.0,23.0,198.0,6-8
+Nevada,Ramon Sessions,PG,Washington Wizards,2170465.0,7.0,30.0,190.0,6-3
+LSU,Garrett Temple,SG,Washington Wizards,1100602.0,17.0,30.0,195.0,6-6
+LSU,Marcus Thornton,SF,Washington Wizards,200600.0,15.0,29.0,205.0,6-4
+Kentucky,John Wall,PG,Washington Wizards,15851950.0,2.0,25.0,195.0,6-4
+Kansas,Darrell Arthur,PF,Denver Nuggets,2814000.0,0.0,28.0,235.0,6-9
+Texas,D.J. Augustin,PG,Denver Nuggets,3000000.0,12.0,28.0,183.0,6-0
+Memphis,Will Barton,SF,Denver Nuggets,3533333.0,5.0,25.0,175.0,6-6
+DePaul,Wilson Chandler,SF,Denver Nuggets,10449438.0,21.0,29.0,225.0,6-8
+Morehead State,Kenneth Faried,PF,Denver Nuggets,11235955.0,35.0,26.0,228.0,6-8
+,Danilo Gallinari,SF,Denver Nuggets,14000000.0,8.0,27.0,225.0,6-10
+Michigan State,Gary Harris,SG,Denver Nuggets,1584480.0,14.0,21.0,210.0,6-4
+,Nikola Jokic,C,Denver Nuggets,1300000.0,15.0,21.0,250.0,6-10
+,Joffrey Lauvergne,C,Denver Nuggets,1709719.0,77.0,24.0,220.0,6-11
+Florida,Mike Miller,SG,Denver Nuggets,947276.0,3.0,36.0,218.0,6-8
+,Emmanuel Mudiay,PG,Denver Nuggets,3102240.0,0.0,20.0,200.0,6-5
+Saint Joseph's,Jameer Nelson,PG,Denver Nuggets,4345000.0,1.0,34.0,190.0,6-0
+,Jusuf Nurkic,C,Denver Nuggets,1842000.0,23.0,21.0,280.0,7-0
+St. John's,JaKarr Sampson,SG,Denver Nuggets,258489.0,9.0,23.0,214.0,6-9
+,Axel Toupane,SG,Denver Nuggets,,6.0,23.0,210.0,6-7
+,Nemanja Bjelica,PF,Minnesota Timberwolves,3950001.0,88.0,28.0,240.0,6-10
+Louisville,Gorgui Dieng,C,Minnesota Timberwolves,1474440.0,5.0,26.0,241.0,6-11
+,Kevin Garnett,PF,Minnesota Timberwolves,8500000.0,21.0,40.0,240.0,6-11
+Duke,Tyus Jones,PG,Minnesota Timberwolves,1282080.0,1.0,20.0,195.0,6-2
+UCLA,Zach LaVine,PG,Minnesota Timberwolves,2148360.0,8.0,21.0,189.0,6-5
+UCLA,Shabazz Muhammad,SF,Minnesota Timberwolves,2056920.0,15.0,23.0,223.0,6-6
+Michigan State,Adreian Payne,PF,Minnesota Timberwolves,1938840.0,33.0,25.0,237.0,6-10
+,Nikola Pekovic,C,Minnesota Timberwolves,12100000.0,14.0,30.0,307.0,6-11
+Kentucky,Tayshaun Prince,SF,Minnesota Timberwolves,947276.0,12.0,36.0,212.0,6-9
+,Ricky Rubio,PG,Minnesota Timberwolves,12700000.0,9.0,25.0,194.0,6-4
+,Damjan Rudez,SF,Minnesota Timberwolves,1149500.0,10.0,29.0,230.0,6-9
+Fresno State,Greg Smith,PF,Minnesota Timberwolves,,4.0,25.0,250.0,6-10
+Kentucky,Karl-Anthony Towns,C,Minnesota Timberwolves,5703600.0,32.0,20.0,244.0,7-0
+Kansas,Andrew Wiggins,SG,Minnesota Timberwolves,5758680.0,22.0,21.0,199.0,6-8
+Pittsburgh,Steven Adams,C,Oklahoma City Thunder,2279040.0,12.0,22.0,255.0,7-0
+Kansas,Nick Collison,PF,Oklahoma City Thunder,3750000.0,4.0,35.0,255.0,6-10
+Texas,Kevin Durant,SF,Oklahoma City Thunder,20158622.0,35.0,27.0,240.0,6-9
+Villanova,Randy Foye,SG,Oklahoma City Thunder,3135000.0,6.0,32.0,213.0,6-4
+Stanford,Josh Huestis,SF,Oklahoma City Thunder,1140240.0,34.0,24.0,230.0,6-7
+,Serge Ibaka,PF,Oklahoma City Thunder,12250000.0,9.0,26.0,245.0,6-10
+Kentucky,Enes Kanter,C,Oklahoma City Thunder,16407500.0,11.0,24.0,245.0,6-11
+Michigan,Mitch McGary,PF,Oklahoma City Thunder,1463040.0,33.0,24.0,255.0,6-10
+Kentucky,Nazr Mohammed,C,Oklahoma City Thunder,222888.0,13.0,38.0,250.0,6-10
+Georgia Tech,Anthony Morrow,SG,Oklahoma City Thunder,3344000.0,2.0,30.0,210.0,6-5
+Murray State,Cameron Payne,PG,Oklahoma City Thunder,2021520.0,22.0,21.0,185.0,6-3
+Colorado,Andre Roberson,SG,Oklahoma City Thunder,1210800.0,21.0,24.0,210.0,6-7
+Duke,Kyle Singler,SF,Oklahoma City Thunder,4500000.0,5.0,28.0,228.0,6-8
+Syracuse,Dion Waiters,SG,Oklahoma City Thunder,5138430.0,3.0,24.0,220.0,6-4
+UCLA,Russell Westbrook,PG,Oklahoma City Thunder,16744218.0,0.0,27.0,200.0,6-3
+Kansas,Cliff Alexander,PF,Portland Trail Blazers,525093.0,34.0,20.0,240.0,6-8
+Wake Forest,Al-Farouq Aminu,SF,Portland Trail Blazers,8042895.0,8.0,25.0,215.0,6-9
+Notre Dame,Pat Connaughton,SG,Portland Trail Blazers,625093.0,5.0,23.0,206.0,6-5
+California,Allen Crabbe,SG,Portland Trail Blazers,947276.0,23.0,24.0,210.0,6-6
+North Carolina,Ed Davis,C,Portland Trail Blazers,6980802.0,17.0,27.0,240.0,6-10
+St. John's,Maurice Harkless,SF,Portland Trail Blazers,2894059.0,4.0,23.0,215.0,6-9
+Duke,Gerald Henderson,SG,Portland Trail Blazers,6000000.0,9.0,28.0,215.0,6-5
+Central Michigan,Chris Kaman,C,Portland Trail Blazers,5016000.0,35.0,34.0,265.0,7-0
+Illinois,Meyers Leonard,PF,Portland Trail Blazers,3075880.0,11.0,24.0,245.0,7-1
+Weber State,Damian Lillard,PG,Portland Trail Blazers,4236287.0,0.0,25.0,195.0,6-3
+Lehigh,C.J. McCollum,SG,Portland Trail Blazers,2525160.0,3.0,24.0,200.0,6-4
+Westchester CC,Luis Montero,SG,Portland Trail Blazers,525093.0,44.0,23.0,185.0,6-7
+Duke,Mason Plumlee,C,Portland Trail Blazers,1415520.0,24.0,26.0,235.0,6-11
+Dayton,Brian Roberts,PG,Portland Trail Blazers,2854940.0,2.0,30.0,173.0,6-1
+Indiana,Noah Vonleh,PF,Portland Trail Blazers,2637720.0,21.0,20.0,240.0,6-9
+Clemson,Trevor Booker,PF,Utah Jazz,4775000.0,33.0,28.0,228.0,6-8
+Michigan,Trey Burke,PG,Utah Jazz,2658240.0,3.0,23.0,191.0,6-1
+Colorado,Alec Burks,SG,Utah Jazz,9463484.0,10.0,24.0,214.0,6-6
+,Dante Exum,PG,Utah Jazz,3777720.0,11.0,20.0,190.0,6-6
+Georgia Tech,Derrick Favors,PF,Utah Jazz,12000000.0,15.0,24.0,265.0,6-10
+,Rudy Gobert,C,Utah Jazz,1175880.0,27.0,23.0,245.0,7-1
+Butler,Gordon Hayward,SF,Utah Jazz,15409570.0,20.0,26.0,226.0,6-8
+Duke,Rodney Hood,SG,Utah Jazz,1348440.0,5.0,23.0,206.0,6-8
+,Joe Ingles,SF,Utah Jazz,2050000.0,2.0,28.0,226.0,6-8
+Dayton,Chris Johnson,SF,Utah Jazz,981348.0,23.0,26.0,206.0,6-6
+Kentucky,Trey Lyles,PF,Utah Jazz,2239800.0,41.0,20.0,234.0,6-10
+Butler,Shelvin Mack,PG,Utah Jazz,2433333.0,8.0,26.0,203.0,6-3
+,Raul Neto,PG,Utah Jazz,900000.0,25.0,24.0,179.0,6-1
+,Tibor Pleiss,C,Utah Jazz,2900000.0,21.0,26.0,256.0,7-3
+Kansas,Jeff Withey,C,Utah Jazz,947276.0,24.0,26.0,231.0,7-0
